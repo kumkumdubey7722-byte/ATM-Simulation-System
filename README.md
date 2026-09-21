@@ -22,7 +22,7 @@ A simple Java-based ATM Simulation System that demonstrates basic ATM operations
 
 ## Project Structure
 
-```text
+
 ATM-Simulation-System
 │
 ├── Account.java
@@ -46,7 +46,7 @@ java Main
 
 **PIN:**
 
-```text
+
 1234
 #Initial balance
 Rs.10000
