@@ -90,9 +90,6 @@ The system provides basic security through PIN verification.
 
 
 ## Author
-Kumkum Dubey
-Bsc Computer Science Student
-
 **Kumkum Dubey**
 
 BSc Computer Science Student
